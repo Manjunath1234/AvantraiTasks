@@ -1,0 +1,9 @@
+File Download And Writing in to local database
+Here First I am downloading a file from AsyncTask and On Completeion,
+i am convering html page into String format,and then
+i am listening the successs response from interface which is implemented by main activity,
+then in on response again im writing the String data to database name "dictionary_db".
+
+Regarding execution time 
+Displaying it in minutes in textView as soon as inserting into db starts.
+
